@@ -1,1 +1,14 @@
 # 1992Scam
+Documentation is very important
+Create documentation with following aspects:
+Acknowledgement
+Purpose
+Existing System
+Proposed Solution
+Working
+Results
+Advantages
+Conclusion
+Future Scope
+
+Also create a short ppt of 10 slides that describes your project in short
